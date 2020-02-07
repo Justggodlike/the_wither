@@ -105,6 +105,8 @@ animation-delay: 1s;
   color: #fff;
 }
 
+.button:active, .button:focus {outline: none;}
+
 .main-content {
   display: flex;
   align-items: center;
